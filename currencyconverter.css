@@ -1,0 +1,24 @@
+
+
+body {
+    margin-top: 150px;
+    background: linear-gradient(to right,#1f4253, #00AAFF, #1f4253);
+	text-align: center;
+	font-size: 15px;
+}
+.form-group{
+    display:inline-block;
+    margin: 20px;
+    padding: 10px;
+}
+#text1,#select1,#select2{
+    padding: 10px;
+    border-radius: 6px;
+}
+button 
+ {  padding:10px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: seashell;
+    background-color: rgb(51, 99, 128);
+}

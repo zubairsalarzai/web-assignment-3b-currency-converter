@@ -1,0 +1,10 @@
+ {
+     "name": "Currency Converter",
+     "value": [
+         { "Currency": "PKR", "value": ["1 PKR =0.006 USD", "1 PKR =0.45 INR", "1 PKR =0.51 BAN"] },
+         { "Currency": "USD", "value": ["1 USD =167.38 PKR", "1 USD =74.93INR", "1 USD =84.79 BAN"] },
+         { "Currency": "USD", "value": ["1 INR =2.23 PKR", "1 INR =0.013 USD", "1 INR =1.13 BAN"] },
+         { "Currency": "USD", "value": ["1 BAN =1.97 PKR", "1 BAN =0.012 USD", "1 BAN =0.88 INR"] }
+
+     ]
+ }
